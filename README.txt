@@ -12,7 +12,7 @@ or using this one:
 
  
  
- - To run this project is in the "./World/main.py" file:
+ - To run this project is in the "./script/main.py" file:
  
  ~$ python3 main.py
  
