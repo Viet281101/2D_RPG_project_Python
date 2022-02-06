@@ -19,7 +19,7 @@ or using this one:
  
  
  
-- Here the assets information:
+- Here the assets information details:
 https://opengameart.org/
 
  https://pixel-boy.itch.io/ninja-adventure-asset-pack
