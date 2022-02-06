@@ -26,7 +26,8 @@ class Level:
 			'object': import_csv_layout('../map/map_LargeObjects.csv')
 		}
 		graphics = {
-			'grass': import_folder('../graphics/grass')
+			'grass': import_folder('../graphics/grass'),
+			'objects': import_folder('../graphics/objects')
 		}
 		# print(graphics)
 
@@ -42,20 +43,25 @@ class Level:
 						if style == 'boundary':
 							Tile((x, y), [self.obstacle_sprites], 'invisible')
 						if style == 'grass':
+							# create a grass tile
 							random_grass_image = choice(graphics['grass'])
 							Tile((x, y), [self.visible_sprites, self.obstacle_sprites], 'grass', random_grass_image)
 
 						if style == 'object':
 							# create a object tile
-							pass
+							surf = graphics['objects'][int(col)]
+							Tile((x, y), [self.visible_sprites, self.obstacle_sprites], 'object', surf)
+							# Tile((x, y), [self.obstacle_sprites], 'object', surf)
 
+		### TEST:###
 		# 		if col == 'x':
 		# 			Tile((x, y), [self.visible_sprites, self.obstacle_sprites])
 		# 		if col == 'p':
 		# 			self.player = Player((x, y), [self.visible_sprites], self.obstacle_sprites)
 
+
 		# collision map
-		self.player = Player((2000, 1430), [self.visible_sprites], self.obstacle_sprites)
+		self.player = Player((2000, 1400), [self.visible_sprites], self.obstacle_sprites)
 
 	def run(self):
 

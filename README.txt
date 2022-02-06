@@ -20,5 +20,7 @@ or using this one:
  
  
 - Here the assets information:
+https://opengameart.org/
+
  https://pixel-boy.itch.io/ninja-adventure-asset-pack
  
