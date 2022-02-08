@@ -4,7 +4,7 @@ This is also one of my python learning projects, I put it on github to do Backup
 
 - To run this project you need to install the 'pygame':
 
-~$ pip install pygame
+~$ pip3 install pygame
 
 or using this one:
 
