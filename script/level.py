@@ -35,7 +35,7 @@ class Level:
 		}
 		graphics = {
 			'grass': import_folder('../graphics/grass'),
-			'objects': import_folder('../graphics/objects')
+			'objects': import_folder_objects('../graphics/objects')
 		}
 		# print(graphics)
 
