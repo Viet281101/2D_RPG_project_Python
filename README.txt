@@ -23,6 +23,7 @@ or using this one:
  'Q' to change the weapon
  'E' to change the magic
  'SPACE' to attack
+ 'CTRL' (left) to use magic
  
  
  
