@@ -18,6 +18,13 @@ or using this one:
  
  
  
+ KEY GAME:
+ 'UP', 'SOWN', 'RIGHT', 'LEFT' to move
+ 'Q' to change the weapon
+ 'E' to change the magic
+ 'SPACE' to attack
+ 
+ 
  
 - Here the assets information details:
 https://opengameart.org/
