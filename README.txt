@@ -22,9 +22,9 @@ or using this one:
  'UP', 'SOWN', 'RIGHT', 'LEFT' to move
  'Q' to change the weapon
  'E' to change the magic
- 'SPACE' to attack
+ 'SPACE' to attack and raise the attribute index in the menu
  'CTRL' (left) to use magic
- 'M' to PAUSE
+ 'M' to open the Menu Attribute
  
  
  
@@ -32,4 +32,5 @@ or using this one:
 https://opengameart.org/
 
  https://pixel-boy.itch.io/ninja-adventure-asset-pack
+ 
  
