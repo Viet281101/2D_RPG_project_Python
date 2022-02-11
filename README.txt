@@ -24,6 +24,7 @@ or using this one:
  'E' to change the magic
  'SPACE' to attack
  'CTRL' (left) to use magic
+ 'M' to PAUSE
  
  
  
