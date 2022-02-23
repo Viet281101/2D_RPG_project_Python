@@ -13,7 +13,8 @@ or using this one:*Enter*
  
 **Enter**
 
-- And open the _"./script/main.py"_ file:*Enter*
+- And open the _"./script/main.py"_ file:
+*Enter*
 ```
 ~$ python3 main.py
 ```
@@ -28,11 +29,11 @@ or using this one:*Enter*
 '**M**' to open the Menu Attribute
  
  
- **Enter**
+**Enter**
  
 - Here the assets information details:*Enter*
 https://opengameart.org/
 *Enter*
- https://pixel-boy.itch.io/ninja-adventure-asset-pack
+https://pixel-boy.itch.io/ninja-adventure-asset-pack
  
  
